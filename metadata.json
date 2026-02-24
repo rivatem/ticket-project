@@ -1,0 +1,7 @@
+{
+  "name": "EventTix - Modern Ticketing Platform",
+  "description": "A comprehensive ticketing platform with event management, M-Pesa integration, and QR code validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
